@@ -1,0 +1,30 @@
+debug
+* padding:8
+|
+| fill:x
+| fill:x
+| fill:x
+---
+'Start Game' colspan:5 spacingBottom:20
+---
+'Levels'
+[episode1Button]
+[episode2Button]
+[episode3Button]
+---
+'Ship Model'
+[shipModelSelectBox] colspan:3
+[shipModelImage]
+---
+'Front Gun'
+[frontGunSelectBox] colspan:3
+[frontGunImage]
+---
+'Shield'
+[shieldSelectBox] colspan:3
+[shieldImage]
+---
+'Credits'
+[creditsLabel] colspan:4
+---
+[backButton] colspan:5 width:300 height:60 spacingTop:30
